@@ -1,0 +1,24 @@
+{
+  "protocol": "raw_global_time_v2_development",
+  "raw_rows": 15473536,
+  "cutoff_utc": "2020-01-01",
+  "validation_end_utc": "2022-01-01",
+  "catalog_requested": 1000,
+  "catalog_size": 999,
+  "min_history": 8,
+  "max_users": 5000,
+  "users": 5000,
+  "train_rows": 53152,
+  "validation_rows": 2336,
+  "validation_all_rows": 23663,
+  "outside_catalog_rows": 21327,
+  "metadata_missing": 0,
+  "independent_test": false,
+  "selection": "Pre-cutoff event-count top catalog, unique-pair user threshold, SHA256 user cap; earliest observed rating per pair",
+  "sha256": {
+    "products.jsonl": "b10da9b9a21f8e9274f7816b2a8d62fc3fa7e49eaa2742dfc15d3dc58a609857",
+    "validation.csv": "66b61f09921b5602f251867775c547e369be91a6a194c9e5b7159ffa276027b9",
+    "train.csv": "006a697c77717fa979a0dc93111600c28445efe7073b164d790b761ccf44f28b",
+    "validation_all.csv": "a8e67194154702a528f9bb76a792ef783a39d56f5f30a7eb8c230afe3f9d41d0"
+  }
+}

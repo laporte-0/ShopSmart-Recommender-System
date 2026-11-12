@@ -1,0 +1,3 @@
+Model,Precision@10,Hit Rate@10,Coverage
+Content-Based TF-IDF,0.0018,0.018,0.513
+Popularity Baseline,0.0018,0.018,0.0095

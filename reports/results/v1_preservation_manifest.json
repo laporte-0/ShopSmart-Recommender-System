@@ -1,0 +1,21 @@
+{
+  "notebooks/01_Data_Exploration.ipynb": "9f99079b29f9fc32140a8ca84ca667f8f8382f9f2d8ff6789848f62f86c97316",
+  "notebooks/05_Final_Results.ipynb": "2c4e3fb2e207b9997eaded2ec8476b48b0ccf64ca99a48488f33a51dab4e17dc",
+  "notebooks/04_Collaborative_Filtering.ipynb": "4b015ce7cb0554ca54a66e885969927452193a456a9dd7f2445f63cf18b42603",
+  "notebooks/02_Data_Preprocessing.ipynb": "88b47381fb564b3b8bb58b56f6aa7be5b3de11f09a83183151123052cb70784b",
+  "notebooks/03_Content_Based_Filtering.ipynb": "bc75c0c18453e56dd5d8466bd889c93889f7ede518786d84e4ae6b41f546255e",
+  "data/processed/test.csv": "9fa17d8f5c11de1815d864ebad8097e38b73d8909b272e8a6090499ec1697fa7",
+  "data/processed/model_comparison_validation.csv": "2cae52b6bce9f07e93829df7d21b38f0751aecf266383c0e1f49f9b3cbab2ae9",
+  "data/processed/test_users_sample.csv": "bfebc8b5aa5d5f3c0afa42d57c4e34987a11b9c5b854f5ef9ac241dddf605171",
+  "data/processed/final_model_results.csv": "ab0f9f4e00cabd7af0961d6af98ebd75793a6c09468b23e72fe9b71d2d72e0ef",
+  "data/processed/final_model_comparison.png": "71c7c7cafd3da4037d70e3f9428fa18f8fc98c562199b2da75b43eb67d8ad14d",
+  "data/processed/ratings_shopsmart.csv": "8b405bef800c862216bbac1c00f3dd6f467d93c2f59fb4f5608b13645d8ea375",
+  "data/processed/validation.csv": "9b564545d4993c986d2dd2562fd28e790890b33de79fb5c8de8f78dad8f3b1d2",
+  "data/processed/collaborative_test_results.csv": "2c9fa47c8d3c1cb407053db9bf4b6462149621cc4e5b6e87f038b7bbee613642",
+  "data/processed/train.csv": "70191fa270eae39d92be9cb44fbf7333f1297d582d8af03e45fd334a05147560",
+  "data/processed/products_shopsmart.jsonl": "42adf7843adda61211c2446236859e34c69669940b6b795348d794956a74a4a6",
+  "data/processed/products_preprocessed.jsonl": "9fb295e24b58544d61637f3683ea6f3bd65757210f649eef5a0a4ffd2462dca5",
+  "data/processed/content_popularity_test_results.csv": "96fa86b2419eb389f9a620e7e4e33cfb2fdb2f02f9cac295fcbf54ef9b128efe",
+  "data/processed/model_comparison.png": "0313f71336af3c1681ec77098f17b5f3b5e7e0e1b42c6bc33cd36737d9be2fa9",
+  "data/processed/content_popularity_validation.csv": "62905f957af6a0d130b4dee5cdc4b99baa4e000f5684b693a079c0eefb97efa1"
+}

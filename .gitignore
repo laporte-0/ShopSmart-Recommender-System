@@ -1,0 +1,41 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.cache/
+# Reconstructed datasets, serialized models and local model downloads
+/data/raw/
+/artifacts/
+/models/
+.ollama/
+*.joblib
+*.pkl
+*.pickle
+*.gguf
+*.safetensors
+# Local archives, temporary outputs and report drafts
+.local_archive/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.tmp
+*.log
+/reports/experimental_summary.md
+# Machine settings and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+.vscode/
+.idea/
+*.pem
+*.key
+credentials.json
+.DS_Store
+Thumbs.db

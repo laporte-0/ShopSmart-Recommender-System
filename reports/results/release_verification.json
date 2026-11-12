@@ -1,0 +1,47 @@
+{
+  "automated_tests": {
+    "command": ".venv/bin/python -m unittest discover -s tests -v",
+    "count": 24,
+    "status": "passed",
+    "live_llm_required": false
+  },
+  "core_verification": {
+    "status": "passed",
+    "saved_models": 11,
+    "users_per_model": 6,
+    "data_hashes_checked": true,
+    "recorded_only_mode": "passed"
+  },
+  "imports_and_compileall": "passed",
+  "pip_check": "No broken requirements found",
+  "rag_notebook": "09_RAG_Demo.ipynb executed and validated; existing eight notebooks unchanged",
+  "rag_discovery_live": {
+    "status": "generated",
+    "model": "mistral:latest",
+    "evidence_file": "rag_live_demo.json"
+  },
+  "rag_recommendation_explanation_live": {
+    "status": "generated",
+    "model": "mistral:latest",
+    "evidence_file": "rag_explanation_live.json"
+  },
+  "ollama_version": "0.24.0",
+  "models_downloaded": false,
+  "fallback_verification": [
+    "mocked missing server",
+    "mocked missing model",
+    "mocked timeout",
+    "invalid generated evidence",
+    "explicit retrieval-only CLI",
+    "unknown-user recommendation metadata lookup"
+  ],
+  "ml_experiments_rerun": false,
+  "git_commits_or_pushes": false,
+  "limitations": [
+    "Git status/index/remotes unavailable: empty read-only .git placeholder.",
+    "Prospective file audit cannot substitute for an actual Git staging audit.",
+    "Clean-environment dependency installation not repeated; existing environment verified.",
+    "Live LLM inference quality is not fully mechanically verified; only IDs and evidence are checked.",
+    "Core ML scores remain development validation, not an independent final test."
+  ]
+}

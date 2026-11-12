@@ -1,0 +1,6 @@
+Model,Precision@10,Hit Rate@10,Coverage
+Item-Based KNN,0.0058000000000000005,0.058,0.367
+Popularity Baseline,0.004,0.04,0.008
+User-Based KNN V2,0.0036,0.036,0.3865
+Content-Based TF-IDF,0.003,0.03,0.4965
+User-Based KNN V1,0.0009,0.009,0.805

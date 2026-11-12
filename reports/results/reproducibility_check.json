@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "runs_compared": 34,
+  "numeric_columns": [
+    "Precision@5",
+    "Recall@5",
+    "Hit Rate@5",
+    "Precision@10",
+    "Recall@10",
+    "Hit Rate@10",
+    "NDCG@10",
+    "MRR@10",
+    "List length",
+    "Diversity",
+    "Coverage",
+    "users",
+    "HR10_ci_low",
+    "HR10_ci_high",
+    "NDCG10_ci_low",
+    "NDCG10_ci_high",
+    "RMSE",
+    "MAE",
+    "best_epoch"
+  ],
+  "absolute_tolerance": 1e-12,
+  "timing_excluded": true,
+  "first_run_results_sha256": "6933ae62d95835a4f7034e5bface06035a2e88dca5da6d62b491a3a6ade9bce2",
+  "second_run_results_sha256": "390dd12baeb23be6b929d9194aaefff16e11c9af8a907e6ea3d72098361cb69c",
+  "sample_sha256": "cddc6debd1188071732b6929c0a3c5658d0b5474dcbd9a2288c1025f39e40fef",
+  "winner": "Item_V1"
+}
