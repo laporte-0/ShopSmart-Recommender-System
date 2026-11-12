@@ -275,3 +275,17 @@ Hou, Y., Li, J., He, Z., Yan, A., Chen, X., and McAuley, J. (2024).
 Use the [official dataset site](https://amazon-reviews-2023.github.io/) for access,
 usage terms and source information. Raw datasets and downloaded model weights
 are not redistributed by this repository.
+
+## Original Dataset Download
+
+ShopSmart uses the **Amazon Reviews 2023 — Electronics** dataset
+published by McAuley Lab (UC San Diego).
+
+- **Official dataset page:** https://amazon-reviews-2023.github.io/
+- **Electronics reviews:** https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/Electronics.jsonl.gz
+- **Electronics product metadata:** https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Electronics.jsonl.gz
+
+The original dataset is not included in this repository due to its size.
+Prepared datasets are available in `data/processed/`.
+
+For reproducibility, the original data can be downloaded from the official source.
